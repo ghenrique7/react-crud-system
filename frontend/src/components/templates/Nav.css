@@ -1,0 +1,14 @@
+aside.menu-area {
+    background-color: var(--bg-dark);
+    box-shadow: var(--secondary-shadow);
+}
+
+@media (max-width: 768px) {
+    .menu-area {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        height: 80%;
+        justify-content: space-around;
+    }
+}

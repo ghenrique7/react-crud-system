@@ -1,0 +1,14 @@
+.menu a {
+    display: block;
+    text-decoration: none;
+    color: #FFF;
+    padding: 10px;
+}
+
+.menu a:hover {
+    background: var(--linear-bg);
+}
+
+.menu i {
+    padding: 2px;
+}
